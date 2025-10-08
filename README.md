@@ -1,6 +1,10 @@
 # 🛡️ PhishShield – AI-Powered Email Security & Anti-Phishing Platform  
 
 > “Building intelligent defense through automation, analytics, and awareness.”  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ad8673ff-c8bd-447b-b16d-250e7df9cb4b" alt="PhishShield Banner" width="100%" style="border-radius:10px;" />
+</p>
+
 
 ---
 
