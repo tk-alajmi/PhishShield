@@ -42,8 +42,9 @@
 PhishShield is an <strong>AI-driven email security initiative</strong> designed to detect and stop phishing through <strong>real-time analysis</strong>, <strong>NLP/ML classification</strong>, and <strong>threat-intelligence enrichment</strong>. It was developed as a full <strong>Project Management Plan</strong> in La Trobe University’s <strong>CSE3PM</strong> unit using <strong>Agile sprints</strong>, and aligned to <strong>ISO/IEC 27001</strong> and <strong>Saudi NCA ECC-2</strong>. Core deliverables include Objectives & Stakeholders, Scope & Boundaries, WBS, Gantt & Milestones, Activity List, Risk Management, Resource Allocation, Communication Plan, Success Criteria, RTM, Sprint Reflections, and Project Closure.
 </p>
 
-<!-- INSERT_IMAGE_COVER: export your title/agenda slide as PNG -->
-<p align="center"><img src="docs/img/00_cover.png" alt="PhishShield Cover (from slides)" width="92%"></p>
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/2989e83e-32b2-4063-bafc-88c6b1a84956" />
+
 
 <hr>
 
@@ -77,8 +78,6 @@ PhishShield is an <strong>AI-driven email security initiative</strong> designed 
 Phishing is a top initial access vector; static filters lag behind adversaries’ speed and creativity. PhishShield closes the gap via <strong>context-aware NLP</strong>, <strong>ML classification</strong>, and <strong>live TI enrichment</strong>, with clear governance for privacy and risk.
 </p>
 
-<!-- INSERT_IMAGE_OBJECTIVES: export objectives slide PNG -->
-<p align="center"><img src="docs/img/01_objectives.png" alt="Objectives (from slides)" width="92%"></p>
 
 <hr>
 
@@ -101,8 +100,7 @@ Phishing is a top initial access vector; static filters lag behind adversaries�
   <li><strong>Security</strong>: Auth0/Firebase, RBAC, TLS, KMS at rest, audit logging</li>
 </ul>
 
-<!-- INSERT_IMAGE_ARCH: optional diagram -->
-<p align="center"><img src="docs/img/02_architecture.png" alt="Architecture Diagram" width="92%"></p>
+
 
 <hr>
 
@@ -153,8 +151,7 @@ Phishing is a top initial access vector; static filters lag behind adversaries�
   </tr>
 </table>
 
-<!-- INSERT_IMAGE_SCOPE: export scope slide -->
-<p align="center"><img src="docs/img/03_scope.png" alt="Scope & Boundaries (from slides)" width="92%"></p>
+
 
 <hr>
 
@@ -175,8 +172,7 @@ Phishing is a top initial access vector; static filters lag behind adversaries�
   <li>Handover & Closure</li>
 </ol>
 
-<!-- INSERT_IMAGE_WBS: export WBS tree/list slide -->
-<p align="center"><img src="docs/img/04_wbs.png" alt="WBS Overview (from slides)" width="92%"></p>
+
 
 <hr>
 
@@ -236,16 +232,14 @@ The activity list maps each WBS work package to granular tasks with owners and d
   </tbody>
 </table>
 
-<!-- INSERT_IMAGE_RISK_MATRIX: export heatmap/matrix -->
-<p align="center"><img src="docs/img/07_risk_matrix.png" alt="Risk Matrix (from slides)" width="92%"></p>
+
 
 <hr>
 
 <h2 id="-resources">👥 Resource Allocation</h2>
 <p>Balanced workloads across Sprint 1 (planning foundation) and Sprint 2 (governance completeness + integration readiness).</p>
 
-<!-- INSERT_IMAGE_RESOURCES: export resources/allocation slide -->
-<p align="center"><img src="docs/img/08_resources.png" alt="Resource Allocation (from slides)" width="92%"></p>
+
 
 <hr>
 
@@ -261,8 +255,7 @@ The activity list maps each WBS work package to granular tasks with owners and d
   </tbody>
 </table>
 
-<!-- INSERT_IMAGE_COMM_PLAN -->
-<p align="center"><img src="docs/img/09_comm_plan.png" alt="Communication Plan (from slides)" width="92%"></p>
+
 
 <hr>
 
@@ -325,8 +318,7 @@ RTM links requirements → design → implementation → test artifacts → acce
   <li><strong>Traceability builds quality</strong>: Linking every requirement/success factor improves validation</li>
 </ul>
 
-<!-- INSERT_IMAGE_SPRINTS -->
-<p align="center"><img src="docs/img/12_sprints_lessons.png" alt="Sprints & Lessons (from slides)" width="92%"></p>
+
 
 <hr>
 
@@ -339,8 +331,7 @@ RTM links requirements → design → implementation → test artifacts → acce
   <li>Project closure report and lessons learned</li>
 </ul>
 
-<!-- INSERT_IMAGE_CLOSURE -->
-<p align="center"><img src="docs/img/13_handover_closure.png" alt="Project Handover & Closure (from slides)" width="92%"></p>
+
 
 <hr>
 
@@ -393,19 +384,6 @@ RTM links requirements → design → implementation → test artifacts → acce
   <li>Mobile phishing (SMS/social) coverage</li>
   <li>SOC campaign analytics (trends, actors, lures)</li>
 </ul>
-
-<hr>
-
-<h2 id="-repo-structure">📁 Repository Structure</h2>
-<pre>
-phishshield/
-├─ docs/
-│  └─ img/                 # place exported slide images here
-├─ backend/                # (optional) API prototype
-├─ ml-service/             # (optional) NLP/ML experiments
-├─ dashboard/              # (optional) React Admin prototype
-└─ README.md
-</pre>
 
 <hr>
 
