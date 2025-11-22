@@ -275,8 +275,7 @@ The activity list maps each WBS work package to granular tasks with owners and d
 RTM links requirements → design → implementation → test artifacts → acceptance. It ensured that success criteria and risk treatments were verifiably addressed across sprints and during handover.
 </p>
 
-<!-- INSERT_IMAGE_RTM -->
-<p align="center"><img src="docs/img/11_rtm.png" alt="RTM (from slides)" width="92%"></p>
+
 
 <hr>
 
