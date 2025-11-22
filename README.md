@@ -194,8 +194,7 @@ Phishing is a top initial access vector; static filters lag behind adversariesâ€
   </tbody>
 </table>
 
-<!-- INSERT_IMAGE_GANTT: export Gantt summary -->
-<p align="center"><img src="docs/img/05_gantt_milestones.png" alt="Gantt & Milestones (from slides)" width="92%"></p>
+
 
 <hr>
 
@@ -205,8 +204,7 @@ Phishing is a top initial access vector; static filters lag behind adversariesâ€
 The activity list maps each WBS work package to granular tasks with owners and dependencies (tracked in Jira). Sequencing emphasizes early risk/quality gates before integration work, reducing rework during UI and alerting assembly.
 </p>
 
-<!-- INSERT_IMAGE_ACTIVITY: export activity list/dependencies slide -->
-<p align="center"><img src="docs/img/06_activity_dependencies.png" alt="Activity List & Dependencies (from slides)" width="92%"></p>
+
 
 <hr>
 
@@ -268,8 +266,7 @@ The activity list maps each WBS work package to granular tasks with owners and d
   <li><strong>Team & Execution</strong>: Balanced workload; timely ceremonies; traceability in Jira/Confluence</li>
 </ul>
 
-<!-- INSERT_IMAGE_SUCCESS -->
-<p align="center"><img src="docs/img/10_success_kpis.png" alt="Success Criteria (from slides)" width="92%"></p>
+
 
 <hr>
 
